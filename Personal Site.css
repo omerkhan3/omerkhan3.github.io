@@ -206,7 +206,8 @@ color: gold;
     padding-right: 20px;
 }
 .funfact_table{
-	border: 1px solid lightgrey;
+	background-color: #96858F;
+	padding-right: 10px;
 }
 
 #AboutMe_Body{
@@ -259,6 +260,14 @@ color: gold;
 {
 	text-decoration: none;
 }
+
+.disclaimer{
+    text-align: center;
+    font-size: 14px;
+    margin: 0px;
+    font-style: italic;
+}
+
 
 
 
