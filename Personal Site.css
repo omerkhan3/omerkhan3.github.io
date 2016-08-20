@@ -248,7 +248,8 @@ color: gold;
 }
 
 .portfolio_items{
-	padding-left: 10px;
+	padding-left: 20px;
+	padding-top: 20px;
 }
 
 #item_header:visited; #item_languages:visited, #item_header:active, #item_languages:active{
