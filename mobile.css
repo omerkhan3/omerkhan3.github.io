@@ -1,0 +1,40 @@
+@media only screen and (max-device-width: 480px) {
+
+.cube_play{
+    width: 1000px;
+    height: 1000px;
+    display: block;    
+    padding-left: 20px;
+
+}
+
+#cubedesign{
+	width: 1000px;
+	height: 1000px;
+}
+
+.welcomemessage{
+	width: 100%;
+	padding-left: 40px;
+	display: block;
+}
+
+.welcome{
+	font-size: 100px;
+}
+
+.homepage_menu{
+	font-size: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+	}
