@@ -215,3 +215,50 @@ color: gold;
 #aboutme_paragraph{
 	font-family: Papyrus; font-weight: bold; font-size: 30px;
 }
+
+#Portfolio_Body{
+	background-color: #9099A2;
+}
+
+#item 
+{background-color: white;height: 300px;width: 22%; text-decoration: none;}
+
+#item_thumbnail{
+	height: 100px;
+	width: 100%;
+}
+
+#item_header{
+	    font-family: papyrus;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+
+}
+
+#item_languages{
+	font-style: italic;
+	text-align: center;
+	color: black;
+	text-decoration: none !important;
+	
+}
+
+.portfolio_items{
+	padding-left: 10px;
+}
+
+#item_header:visited; #item_languages:visited, #item_header:active, #item_languages:active{
+	text-decoration: none;
+	color: black;
+}
+
+.github_link	
+{
+	text-decoration: none;
+}
+
+
+
