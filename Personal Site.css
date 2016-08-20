@@ -270,5 +270,33 @@ color: gold;
 }
 
 
+#socialmedia 
+{background-color: #9099A2;height: 300px;width: 85%; text-decoration: none;}
 
+#socialmedia_thumbnail{
+	height: 200px;
+	width: 100%;
+}
 
+#socialmedia_header{
+	    font-family: papyrus;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+
+}
+
+.github_link, .facebook_link, .twitter_link, .linkedin_link	
+{
+	text-decoration: none;
+}
+
+.socialmedia_table{
+	padding-left: 15px;
+}
+
+#email{
+	text-align: center;
+}
