@@ -139,11 +139,11 @@ html, body{
 }
 
 
-#section_header {
-text-align: center;
-font-size: 30px
-}
+#section_header {text-align: center;font-size: 30px;}
 
+.AboutMe_Header{
+	font-size: 60px !important;
+}
 
 
 
@@ -199,7 +199,7 @@ color: gold;
 }
 
 #fun_facts {
-    height: 700px;
+    height: 800px;
     width: 250px;
     float: left;
     text-align: center;
