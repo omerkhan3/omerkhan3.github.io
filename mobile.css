@@ -55,7 +55,6 @@
  }
 
 #section_header{
-	margin-top: 100px;
 	font-size: 60px;
 }
 
@@ -89,5 +88,6 @@
 
 .AboutMe_Header{
 	font-size:90px !important;
+	margin-top: 100px;
 }
 }
