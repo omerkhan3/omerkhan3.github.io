@@ -1,16 +1,45 @@
 $(document).ready(function(){
-	$('#item').mouseover(function(){
-		$('#item').css('background-color', '#C0C0C0');
+	$('.item1').mouseover(function(){
+		$('.item1').css('background-color', '#C0C0C0');
 		
 		
 	});
 	
 	
 
-	$('#item').mouseout(function() {
-				$('#item').css('background-color', 'white');
+	$('.item1').mouseout(function() {
+				$('.item1').css('background-color', 'white');
 
 	});
+	
+	$('.item2').mouseover(function(){
+		$('.item2').css('background-color', '#C0C0C0');
+		
+		
+	});
+	
+	
+
+	$('.item2').mouseout(function() {
+				$('.item2').css('background-color', 'white');
+
+	});
+	
+		$('.item3').mouseover(function(){
+		$('.item3').css('background-color', '#C0C0C0');
+		
+		
+	});
+	
+	
+
+	$('.item3').mouseout(function() {
+				$('.item3').css('background-color', 'white');
+
+	});
+	
+	
+
 	
 	
 	$('.Twitter').mouseover(function(){
