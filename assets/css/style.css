@@ -973,3 +973,9 @@ figure.effect-bubba:hover p {
 
 }
 
+
+@media (max-width: 600px) {
+ .home-overlay {
+ 	background-size: 100% 100%;
+ }
+}
